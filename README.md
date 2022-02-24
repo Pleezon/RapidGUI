@@ -13,4 +13,4 @@ RSHIFT - Hide program from taskbar
 ### Usage  
 Download release and execute the .exe.
 ### Preview
-![Image](https://imgur.com/a/SNsBPOv)
+![Image](https://i.imgur.com/fOi8ZEN.png)
