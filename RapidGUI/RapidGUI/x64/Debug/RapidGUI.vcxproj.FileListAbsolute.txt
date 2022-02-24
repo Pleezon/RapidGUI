@@ -1,0 +1,4 @@
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\x64\Debug\RapidGUI.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\x64\Debug\RapidGUI.MyForm.resources
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\x64\Debug\RapidGUI.vcxproj.GenerateResource.cache
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\x64\Debug\RapidGUI.vcxproj.AssemblyReference.cache

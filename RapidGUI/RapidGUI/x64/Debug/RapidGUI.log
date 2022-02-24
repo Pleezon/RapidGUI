@@ -1,0 +1,40 @@
+﻿  MyForm.cpp
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\Spline.h(44,9): warning C4068: unknown pragma 'GCC'
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\Spline.h(45,9): warning C4068: unknown pragma 'GCC'
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\Spline.h(571,45): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\Spline.h(698,9): warning C4068: unknown pragma 'GCC'
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(281,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(282,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(368,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(373,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(415,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(416,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(417,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(418,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(436,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(444,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(449,68): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(449,64): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(471,2): warning C4091: 'static ': ignored on left of 'FormHolder' when no variable is declared
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(532,150): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(532,101): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(540,101): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(540,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(558,168): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(558,119): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(560,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(561,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(565,81): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(565,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(584,170): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(584,121): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(586,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(587,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(591,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(591,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(644,70): warning C4312: 'type cast': conversion from 'int' to 'HWND' of greater size
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(647,70): warning C4312: 'type cast': conversion from 'int' to 'HWND' of greater size
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(669,32): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+C:\Users\Tom Haas\source\repos\RapidGUI\RapidGUI\MyForm.cpp(670,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  RapidGUI.vcxproj -> C:\Users\Tom Haas\source\repos\RapidGUI\x64\Debug\RapidGUI.exe
