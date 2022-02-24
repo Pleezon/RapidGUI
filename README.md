@@ -1,2 +1,16 @@
 # RapidGUI
-Rust Script featuring splinear interpolation.
+Rust Cheat (recoil) featuring splinear interpolation.
+### Weapons featured
+- Assault Rifle
+- Mp5
+- LR
+- Thompson
+- Custom-SMG
+- M249  
+### Hotkeys
+DEL - Enable / Disable
+RSHIFT - Hide program from taskbar 
+### Usage  
+Download release and execute the .exe.
+### Preview
+![Image](https://imgur.com/a/SNsBPOv)
