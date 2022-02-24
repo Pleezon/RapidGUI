@@ -1,5 +1,5 @@
 # RapidGUI
-Rust Cheat (recoil) featuring splinear interpolation.
+Rust Cheat (recoil) featuring splinear and linear interpolation.
 ### Weapons featured
 - Assault Rifle
 - Mp5
