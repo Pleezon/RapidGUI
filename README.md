@@ -17,3 +17,5 @@ Download release and execute the .exe.
 ### Note
 The main purpose of this was for me to learn about C++/CLI and interpolation. 
  
+### WARNING
+I am not responsible for any results of using this software. Use at own risk.
