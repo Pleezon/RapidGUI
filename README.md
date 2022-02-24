@@ -14,3 +14,6 @@ RSHIFT - Hide program from taskbar
 Download release and execute the .exe.
 ### Preview
 ![Image](https://i.imgur.com/fOi8ZEN.png)
+### Note
+The main purpose of this was for me to learn about C++/CLI and interpolation. 
+ 
