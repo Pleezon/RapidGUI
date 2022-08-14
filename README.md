@@ -1,5 +1,6 @@
 # RapidGUI
 Rust Cheat (recoil) featuring splinear and linear interpolation.
+Outdated: Rust's recoil-system has changed, which is why this repository is now public [for learning purposes]
 ### Weapons featured
 - Assault Rifle
 - Mp5
